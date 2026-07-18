@@ -1,0 +1,70 @@
+﻿arquivo;campo;ordem;tipo_inferido;nao_nulos;amostra
+manus_ibge_pontuacao_dimensoes_rodadas_01_02_v01.csv;criterio;1;texto;9;Compreensão e delimitação | Extração e fonte | Correção dos valores | Cobertura | Tratamento e modelagem
+manus_ibge_pontuacao_dimensoes_rodadas_01_02_v01.csv;peso_maximo;2;decimal;9;15.00 | 15.00 | 25.00 | 10.00 | 10.00
+manus_ibge_pontuacao_dimensoes_rodadas_01_02_v01.csv;pontos_rodada_01;3;decimal;9;12.00 | 10.00 | 16.00 | 3.13 | 1.00
+manus_ibge_pontuacao_dimensoes_rodadas_01_02_v01.csv;pontos_rodada_02;4;decimal;9;13.00 | 12.00 | 25.00 | 6.88 | 9.50
+manus_ibge_pontuacao_dimensoes_rodadas_01_02_v01.csv;diferenca_pontos;5;decimal;9;1.00 | 2.00 | 9.00 | 3.75 | 8.50
+manus_ibge_pontuacao_dimensoes_rodadas_01_02_v01.csv;aproveitamento_rodada_01_percentual;6;decimal;9;80.00 | 66.67 | 64.00 | 31.30 | 10.00
+manus_ibge_pontuacao_dimensoes_rodadas_01_02_v01.csv;aproveitamento_rodada_02_percentual;7;decimal;9;86.67 | 80.00 | 100.00 | 68.80 | 95.00
+manus_ibge_pontuacao_dimensoes_rodadas_01_02_v01.csv;tendencia;8;texto;9;MELHORA | MELHORA | MELHORA | MELHORA | MELHORA
+manus_ibge_pontuacao_dimensoes_rodadas_01_02_v01.csv;tipo_informacao;9;texto;9;AUDITORIA_INDEPENDENTE | AUDITORIA_INDEPENDENTE | AUDITORIA_INDEPENDENTE | AUDITORIA_INDEPENDENTE | AUDITORIA_INDEPENDENTE
+manus_ibge_pontuacao_dimensoes_rodadas_01_02_v01.csv;derivado_publicacao;10;texto;9;SIM | SIM | SIM | SIM | SIM
+manus_ibge_pontuacao_dimensoes_rodadas_01_02_v01.csv;versao_publica;11;texto;9;v01 | v01 | v01 | v01 | v01
+manus_ibge_indicadores_comparativos_rodadas_01_02_v01.csv;indicador;1;texto;6;Pontuação total | Cobertura de indicadores | Cobertura funcional-temporal | Condições bloqueadoras | Duração
+manus_ibge_indicadores_comparativos_rodadas_01_02_v01.csv;unidade;2;texto;6;pontos | percentual | percentual | quantidade | minutos
+manus_ibge_indicadores_comparativos_rodadas_01_02_v01.csv;rodada_01;3;decimal;6;57.13 | 25.00 | 31.25 | 4.00 | 19.00
+manus_ibge_indicadores_comparativos_rodadas_01_02_v01.csv;rodada_02;4;decimal;6;86.38 | 75.00 | 68.75 | 1.00 | 10.00
+manus_ibge_indicadores_comparativos_rodadas_01_02_v01.csv;diferenca_absoluta;5;decimal;6;29.25 | 50.00 | 37.50 | -3.00 | -9.00
+manus_ibge_indicadores_comparativos_rodadas_01_02_v01.csv;variacao_percentual;6;decimal;6;51.20 | 200.00 | 120.00 | 75.00 | 47.37
+manus_ibge_indicadores_comparativos_rodadas_01_02_v01.csv;interpretacao;7;texto;6;MELHORA | MELHORA | MELHORA | REDUCAO_POSITIVA | REDUCAO_POSITIVA
+manus_ibge_indicadores_comparativos_rodadas_01_02_v01.csv;tipo_informacao;8;texto;6;AUDITORIA_INDEPENDENTE | AUDITORIA_INDEPENDENTE | AUDITORIA_INDEPENDENTE | AUDITORIA_INDEPENDENTE | AUDITORIA_INDEPENDENTE
+manus_ibge_indicadores_comparativos_rodadas_01_02_v01.csv;derivado_publicacao;9;texto;6;SIM | SIM | SIM | SIM | SIM
+manus_ibge_indicadores_comparativos_rodadas_01_02_v01.csv;versao_publica;10;texto;6;v01 | v01 | v01 | v01 | v01
+manus_ibge_cobertura_indicadores_periodos_v01.csv;indicador;1;texto;6;Cobertura de indicadores | Cobertura funcional-temporal | Indicadores esperados | Indicadores materializados | Unidades indicador-periodo esperadas
+manus_ibge_cobertura_indicadores_periodos_v01.csv;rodada_01;2;decimal;6;25.00 | 31.25 | 4 | 1 | 16
+manus_ibge_cobertura_indicadores_periodos_v01.csv;rodada_02;3;decimal;6;75.00 | 68.75 | 4 | 3 | 16
+manus_ibge_cobertura_indicadores_periodos_v01.csv;unidade;4;texto;6;percentual | percentual | quantidade | quantidade | quantidade
+manus_ibge_cobertura_indicadores_periodos_v01.csv;diferenca;5;decimal;6;50.00 | 37.50 | 0 | 2 | 0
+manus_ibge_cobertura_indicadores_periodos_v01.csv;tipo_informacao;6;texto;6;AUDITORIA_INDEPENDENTE | AUDITORIA_INDEPENDENTE | AUDITORIA_INDEPENDENTE | AUDITORIA_INDEPENDENTE | AUDITORIA_INDEPENDENTE
+manus_ibge_cobertura_indicadores_periodos_v01.csv;observacao;7;texto;6;Rodada 02 materializou 3 de 4 indicadores. | Rodada 02 materializou 11 de 16 unidades indicador-periodo. | Escopo definido pelo experimento. | Área territorial permaneceu ausente na Rodada 02. | Base de cálculo da cobertura funcional-temporal.
+manus_ibge_cobertura_indicadores_periodos_v01.csv;versao_publica;8;texto;6;v01 | v01 | v01 | v01 | v01
+manus_ibge_achados_auditoria_v01.csv;achado_id;1;texto;7;CF01 | CF02 | CF03 | CF04 | CF05
+manus_ibge_achados_auditoria_v01.csv;tipo;2;texto;7;MELHORIA_SUBSTANCIAL | MELHORIA_DE_QUALIDADE | MELHORIA_DE_MODELAGEM | LIMITACAO_REMANESCENTE | REGRESSAO_LOCALIZADA
+manus_ibge_achados_auditoria_v01.csv;severidade;3;texto;7;POSITIVA | POSITIVA | POSITIVA | CRITICA | MEDIA
+manus_ibge_achados_auditoria_v01.csv;dimensao;4;texto;7;Resultado global | Correção dos valores | Tratamento e modelagem | Cobertura | Publicação no Google Drive
+manus_ibge_achados_auditoria_v01.csv;descricao;5;texto;7;A pontuação aumentou de 57,13 para 86,38. | A Rodada 02 alcançou pontuação máxima na correção dos valores. | A dimensão evoluiu de 1,00 para 9,50 pontos. | A área territorial continuou ausente na Rodada 02. | A pontuação caiu de 5,00 para 4,00.
+manus_ibge_achados_auditoria_v01.csv;evidencia;6;texto;7;"diferenca_absoluta=29.25;variacao_relativa_percentual=51.20 | pontuacao_r1=16.00;pontuacao_r2=25.00;concordancias_r2=61273;divergencias_r2=0 | diferenca_pontos=8.50 | indicadores_materializados=3_de_4;cobertura_funcional_temporal=68.75 | arquivos_untitled=sim;hierarquia_achatada=sim"
+manus_ibge_achados_auditoria_v01.csv;interpretacao;7;texto;7;A Rodada 02 superou a Rodada 01 de forma material. | Os valores entregues na Rodada 02 são confiáveis na extensão auditada. | O prompt controlado esteve associado à preservação da granularidade e à produção de estrutura analítica utilizável. | A entrega completa permanece utilizável apenas com ressalvas. | A Rodada 02 entregou conteúdo recuperável, mas piorou a organização da publicação.
+manus_ibge_achados_auditoria_v01.csv;tipo_informacao;8;texto;7;INTERPRETACAO_EXPERIMENTAL | INTERPRETACAO_EXPERIMENTAL | INTERPRETACAO_EXPERIMENTAL | INTERPRETACAO_EXPERIMENTAL | INTERPRETACAO_EXPERIMENTAL
+manus_ibge_achados_auditoria_v01.csv;derivado_publicacao;9;texto;7;SIM | SIM | SIM | SIM | SIM
+manus_ibge_achados_auditoria_v01.csv;versao_publica;10;texto;7;v01 | v01 | v01 | v01 | v01
+manus_ibge_classificacoes_limitacoes_v01.csv;item;1;texto;6;Pontuação Rodada 01 | Pontuação Rodada 02 | Valores entregues Rodada 02 | Cobertura Rodada 02 | Conclusão experimental
+manus_ibge_classificacoes_limitacoes_v01.csv;valor;2;texto;6;"57.13 | 86.38 | 61273 concordâncias; 0 divergências reais | 68.75 | MELHORIA_SUBSTANCIAL_COM_INCOMPLETUDE_REMANESCENTE"
+manus_ibge_classificacoes_limitacoes_v01.csv;classe;3;texto;6;INSUFICIENTE_PARA_USO_ANALITICO | UTILIZAVEL_COM_RESSALVAS | CONFIAVEL_NA_EXTENSAO_AUDITADA | COBERTURA_INCOMPLETA | INTERPRETACAO_EXPERIMENTAL
+manus_ibge_classificacoes_limitacoes_v01.csv;tipo_informacao;4;texto;6;AUDITORIA_INDEPENDENTE | AUDITORIA_INDEPENDENTE | AUDITORIA_INDEPENDENTE | AUDITORIA_INDEPENDENTE | INTERPRETACAO_EXPERIMENTAL
+manus_ibge_classificacoes_limitacoes_v01.csv;observacao;5;texto;6;Classificação global da Rodada 01. | Classificação global limitada pela cobertura incompleta. | Confiável para os registros efetivamente entregues e auditados. | Área territorial não foi materializada. | Conclusão válida para este experimento.
+manus_ibge_classificacoes_limitacoes_v01.csv;versao_publica;6;texto;6;v01 | v01 | v01 | v01 | v01
+manus_ibge_dados_entregues_rodada_02_v01.csv;id_registro_publico;1;inteiro;61273;1 | 2 | 3 | 4 | 5
+manus_ibge_dados_entregues_rodada_02_v01.csv;rodada;2;inteiro;61273;02 | 02 | 02 | 02 | 02
+manus_ibge_dados_entregues_rodada_02_v01.csv;tipo_informacao;3;texto;61273;ENTREGA_MANUS | ENTREGA_MANUS | ENTREGA_MANUS | ENTREGA_MANUS | ENTREGA_MANUS
+manus_ibge_dados_entregues_rodada_02_v01.csv;codigo_municipio;4;inteiro;61273;1100015 | 1100015 | 1100015 | 1100015 | 1100015
+manus_ibge_dados_entregues_rodada_02_v01.csv;municipio;5;texto;61273;Alta Floresta D'Oeste - RO | Alta Floresta D'Oeste - RO | Alta Floresta D'Oeste - RO | Alta Floresta D'Oeste - RO | Alta Floresta D'Oeste - RO
+manus_ibge_dados_entregues_rodada_02_v01.csv;uf_codigo;6;inteiro;61273;11 | 11 | 11 | 11 | 11
+manus_ibge_dados_entregues_rodada_02_v01.csv;uf_sigla;7;texto;61273;RO | RO | RO | RO | RO
+manus_ibge_dados_entregues_rodada_02_v01.csv;indicador_codigo;8;texto;61273;PIB_CORRENTE | PIB_CORRENTE | PIB_CORRENTE | PIB_CORRENTE | PIB_CORRENTE
+manus_ibge_dados_entregues_rodada_02_v01.csv;indicador;9;texto;61273;PIB Municipal | PIB Municipal | PIB Municipal | PIB Municipal | PIB Municipal
+manus_ibge_dados_entregues_rodada_02_v01.csv;periodo;10;inteiro;61273;2019 | 2020 | 2021 | 2022 | 2023
+manus_ibge_dados_entregues_rodada_02_v01.csv;valor;11;decimal;61271;495775.0 | 570242.0 | 734467.0 | 919520.0 | 1046343.0
+manus_ibge_dados_entregues_rodada_02_v01.csv;unidade;12;vazio_ou_nao_amostrado;0;
+manus_ibge_dados_entregues_rodada_02_v01.csv;status_auditoria;13;texto;61273;CONCORDANTE_NA_EXTENSAO_AUDITADA | CONCORDANTE_NA_EXTENSAO_AUDITADA | CONCORDANTE_NA_EXTENSAO_AUDITADA | CONCORDANTE_NA_EXTENSAO_AUDITADA | CONCORDANTE_NA_EXTENSAO_AUDITADA
+manus_ibge_dados_entregues_rodada_02_v01.csv;classificacao_valores;14;texto;61273;CONFIAVEL_NA_EXTENSAO_AUDITADA | CONFIAVEL_NA_EXTENSAO_AUDITADA | CONFIAVEL_NA_EXTENSAO_AUDITADA | CONFIAVEL_NA_EXTENSAO_AUDITADA | CONFIAVEL_NA_EXTENSAO_AUDITADA
+manus_ibge_dados_entregues_rodada_02_v01.csv;classificacao_cobertura;15;texto;61273;COBERTURA_INCOMPLETA | COBERTURA_INCOMPLETA | COBERTURA_INCOMPLETA | COBERTURA_INCOMPLETA | COBERTURA_INCOMPLETA
+manus_ibge_dados_entregues_rodada_02_v01.csv;derivado_publicacao;16;texto;61273;SIM | SIM | SIM | SIM | SIM
+manus_ibge_dados_entregues_rodada_02_v01.csv;versao_publica;17;texto;61273;v01 | v01 | v01 | v01 | v01
+manus_ibge_dim_municipios_rodada_02_v01.csv;id_municipio_publico;1;inteiro;5571;1 | 2 | 3 | 4 | 5
+manus_ibge_dim_municipios_rodada_02_v01.csv;codigo_municipio;2;inteiro;5571;1100015 | 1100023 | 1100031 | 1100049 | 1100056
+manus_ibge_dim_municipios_rodada_02_v01.csv;municipio;3;texto;5571;Alta Floresta D'Oeste | Ariquemes | Cabixi | Cacoal | Cerejeiras
+manus_ibge_dim_municipios_rodada_02_v01.csv;uf_codigo;4;inteiro;5571;11 | 11 | 11 | 11 | 11
+manus_ibge_dim_municipios_rodada_02_v01.csv;uf_sigla;5;texto;5571;RO | RO | RO | RO | RO
+manus_ibge_dim_municipios_rodada_02_v01.csv;tipo_informacao;6;texto;5571;DERIVADO_PUBLICACAO | DERIVADO_PUBLICACAO | DERIVADO_PUBLICACAO | DERIVADO_PUBLICACAO | DERIVADO_PUBLICACAO
+manus_ibge_dim_municipios_rodada_02_v01.csv;versao_publica;7;texto;5571;v01 | v01 | v01 | v01 | v01

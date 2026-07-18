@@ -1,0 +1,9 @@
+arquivo;campo;descricao;tipo
+manus_ibge_pontuacao_dimensoes_rodadas_01_02_v01.csv;tipo_informacao;Origem conceitual da informação exibida.;texto
+manus_ibge_pontuacao_dimensoes_rodadas_01_02_v01.csv;versao_publica;Versão do derivado público.;texto
+manus_ibge_cobertura_indicadores_periodos_v01.csv;rodada_01;Valor observado na Rodada 01.;texto_decimal_ou_quantidade
+manus_ibge_cobertura_indicadores_periodos_v01.csv;rodada_02;Valor observado na Rodada 02.;texto_decimal_ou_quantidade
+manus_ibge_dados_entregues_rodada_02_v01.csv;codigo_municipio;Código municipal conforme derivado da reconstrução lógica.;texto
+manus_ibge_dados_entregues_rodada_02_v01.csv;indicador;Indicador entregue pela Manus na Rodada 02.;texto
+manus_ibge_dados_entregues_rodada_02_v01.csv;valor;Valor entregue pela Manus e auditado na extensão materializada.;texto_decimal
+manus_ibge_dim_municipios_rodada_02_v01.csv;municipio;Nome municipal derivado para relacionamento e filtros no Tableau.;texto

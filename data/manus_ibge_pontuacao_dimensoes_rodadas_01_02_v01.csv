@@ -1,0 +1,10 @@
+criterio;peso_maximo;pontos_rodada_01;pontos_rodada_02;diferenca_pontos;aproveitamento_rodada_01_percentual;aproveitamento_rodada_02_percentual;tendencia;tipo_informacao;derivado_publicacao;versao_publica
+Compreensão e delimitação;15.00;12.00;13.00;1.00;80.00;86.67;MELHORA;AUDITORIA_INDEPENDENTE;SIM;v01
+Extração e fonte;15.00;10.00;12.00;2.00;66.67;80.00;MELHORA;AUDITORIA_INDEPENDENTE;SIM;v01
+Correção dos valores;25.00;16.00;25.00;9.00;64.00;100.00;MELHORA;AUDITORIA_INDEPENDENTE;SIM;v01
+Cobertura;10.00;3.13;6.88;3.75;31.30;68.80;MELHORA;AUDITORIA_INDEPENDENTE;SIM;v01
+Tratamento e modelagem;10.00;1.00;9.50;8.50;10.00;95.00;MELHORA;AUDITORIA_INDEPENDENTE;SIM;v01
+Rastreabilidade e documentação;10.00;5.00;8.00;3.00;50.00;80.00;MELHORA;AUDITORIA_INDEPENDENTE;SIM;v01
+Publicação no Google Drive;5.00;5.00;4.00;-1.00;100.00;80.00;PIORA;AUDITORIA_INDEPENDENTE;SIM;v01
+Reprodutibilidade;5.00;1.50;3.75;2.25;30.00;75.00;MELHORA;AUDITORIA_INDEPENDENTE;SIM;v01
+Eficiência, intervenções e custo;5.00;3.50;4.25;0.75;70.00;85.00;MELHORA;AUDITORIA_INDEPENDENTE;SIM;v01

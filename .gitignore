@@ -1,0 +1,62 @@
+# ============================================================
+# Ambientes locais proibidos neste projeto
+# ============================================================
+
+.env
+.env.*
+.venv/
+venv/
+env/
+
+# ============================================================
+# Credenciais e arquivos sensíveis
+# ============================================================
+
+kaggle.json
+**/kaggle.json
+credentials.json
+**/credentials.json
+secrets.json
+**/secrets.json
+*.pem
+*.key
+*.ppk
+*.secret
+*.token
+
+# ============================================================
+# Python e notebooks
+# ============================================================
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ============================================================
+# Cache temporário da auditoria
+# ============================================================
+
+08_cache_temporario/**
+!08_cache_temporario/.gitkeep
+
+# ============================================================
+# Arquivos temporários
+# ============================================================
+
+*.tmp
+*.temp
+*.log~
+~$*
+.DS_Store
+Thumbs.db
+
+# ============================================================
+# Exportações locais potencialmente sensíveis
+# ============================================================
+
+*_credenciais.*
+*_secrets.*
+*_tokens.*

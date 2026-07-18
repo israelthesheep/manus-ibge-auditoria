@@ -1,0 +1,7 @@
+indicador;unidade;rodada_01;rodada_02;diferenca_absoluta;variacao_percentual;interpretacao;tipo_informacao;derivado_publicacao;versao_publica
+Pontuação total;pontos;57.13;86.38;29.25;51.20;MELHORA;AUDITORIA_INDEPENDENTE;SIM;v01
+Cobertura de indicadores;percentual;25.00;75.00;50.00;200.00;MELHORA;AUDITORIA_INDEPENDENTE;SIM;v01
+Cobertura funcional-temporal;percentual;31.25;68.75;37.50;120.00;MELHORA;AUDITORIA_INDEPENDENTE;SIM;v01
+Condições bloqueadoras;quantidade;4.00;1.00;-3.00;75.00;REDUCAO_POSITIVA;AUDITORIA_INDEPENDENTE;SIM;v01
+Duração;minutos;19.00;10.00;-9.00;47.37;REDUCAO_POSITIVA;AUDITORIA_INDEPENDENTE;SIM;v01
+Créditos consumidos;creditos;524.00;380.00;-144.00;27.48;REDUCAO_POSITIVA;AUDITORIA_INDEPENDENTE;SIM;v01

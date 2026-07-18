@@ -1,0 +1,7 @@
+item;valor;classe;tipo_informacao;observacao;versao_publica
+Pontuação Rodada 01;57.13;INSUFICIENTE_PARA_USO_ANALITICO;AUDITORIA_INDEPENDENTE;Classificação global da Rodada 01.;v01
+Pontuação Rodada 02;86.38;UTILIZAVEL_COM_RESSALVAS;AUDITORIA_INDEPENDENTE;Classificação global limitada pela cobertura incompleta.;v01
+Valores entregues Rodada 02;"61273 concordâncias; 0 divergências reais";CONFIAVEL_NA_EXTENSAO_AUDITADA;AUDITORIA_INDEPENDENTE;Confiável para os registros efetivamente entregues e auditados.;v01
+Cobertura Rodada 02;68.75;COBERTURA_INCOMPLETA;AUDITORIA_INDEPENDENTE;Área territorial não foi materializada.;v01
+Conclusão experimental;MELHORIA_SUBSTANCIAL_COM_INCOMPLETUDE_REMANESCENTE;INTERPRETACAO_EXPERIMENTAL;INTERPRETACAO_EXPERIMENTAL;Conclusão válida para este experimento.;v01
+Regra editorial;Dado correto não é sinônimo de entrega confiável.;NOTA_TECNICA;INTERPRETACAO_EXPERIMENTAL;Mensagem central do Tableau e do artigo.;v01

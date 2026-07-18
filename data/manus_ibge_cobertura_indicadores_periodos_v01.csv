@@ -1,0 +1,7 @@
+indicador;rodada_01;rodada_02;unidade;diferenca;tipo_informacao;observacao;versao_publica
+Cobertura de indicadores;25.00;75.00;percentual;50.00;AUDITORIA_INDEPENDENTE;Rodada 02 materializou 3 de 4 indicadores.;v01
+Cobertura funcional-temporal;31.25;68.75;percentual;37.50;AUDITORIA_INDEPENDENTE;Rodada 02 materializou 11 de 16 unidades indicador-periodo.;v01
+Indicadores esperados;4;4;quantidade;0;AUDITORIA_INDEPENDENTE;Escopo definido pelo experimento.;v01
+Indicadores materializados;1;3;quantidade;2;AUDITORIA_INDEPENDENTE;Área territorial permaneceu ausente na Rodada 02.;v01
+Unidades indicador-periodo esperadas;16;16;quantidade;0;AUDITORIA_INDEPENDENTE;Base de cálculo da cobertura funcional-temporal.;v01
+Unidades indicador-periodo materializadas;5;11;quantidade;6;AUDITORIA_INDEPENDENTE;Rodada 02 ampliou a cobertura, mas não completou o escopo.;v01
