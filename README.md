@@ -1,13 +1,23 @@
 # Manus × IBGE — Auditoria Pública de uma IA Agente
+<img width="1774" height="405" alt="ChatGPT Image 18 de jul  de 2026, 12_14_49" src="https://github.com/user-attachments/assets/5fa9cba7-903e-469f-af63-e47cb5dacc33" />
 
 Auditoria independente de duas entregas produzidas pela Manus para indicadores municipais do IBGE.
+> Dado correto não é sinônimo de entrega confiável. Sem cobertura,
+> rastreabilidade, documentação e validação, até milhares de valores certos
+> podem sustentar uma conclusão errada.
 
 **Responsável técnico:** Igor Vasconcellos  
 **Versão pública:** V1.0
 
-> Dado correto não é sinônimo de entrega confiável. Sem cobertura,
-> rastreabilidade, documentação e validação, até milhares de valores certos
-> podem sustentar uma conclusão errada.
+## Ecossistema público do projeto
+
+Este trabalho integra diferentes plataformas públicas, cada uma com uma função específica no processo de publicação, documentação e análise dos dados.
+
+* **Dashboard no Tableau Public:** [Acessar visualização](https://public.tableau.com/views/Manus-AuditoriapblicadeIAv1_0/Capa?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* **Dataset no Kaggle:** [Acessar conjunto de dados](https://www.kaggle.com/datasets/israelthesheep/brazil-diesel-distributor-shares-20182025/data)
+* **Notebook no Kaggle:** [Acessar análise reproduzível](https://www.kaggle.com/code/israelthesheep/brazilian-diesel-distributor-shares)
+* **Repositório no GitHub:** [Acessar projeto](https://github.com/israelthesheep/manus-ibge-auditoria)
+* **Artigo no Medium:** [Acessar artigo](https://github.com/israelthesheep/app_anp_anuario_pipeline)
 
 ## Resultado principal
 
