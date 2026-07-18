@@ -1,5 +1,5 @@
 # Manus × IBGE — Auditoria Pública de uma IA Agente
-<img width="1774" height="405" alt="ChatGPT Image 18 de jul  de 2026, 12_14_49" src="https://github.com/user-attachments/assets/5fa9cba7-903e-469f-af63-e47cb5dacc33" />
+<img width="1600" height="405" alt="ChatGPT Image 18 de jul  de 2026, 12_14_49" src="https://github.com/user-attachments/assets/5fa9cba7-903e-469f-af63-e47cb5dacc33" />
 
 Auditoria independente de duas entregas produzidas pela Manus para indicadores municipais do IBGE.
 > Dado correto não é sinônimo de entrega confiável. Sem cobertura,
