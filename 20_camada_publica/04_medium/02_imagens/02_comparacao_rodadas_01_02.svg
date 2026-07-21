@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Comparação entre as rodadas 01 e 02 da auditoria Manus × IBGE</title>
+  <desc id="desc">A pontuação passou de 57,13 para 86,38, enquanto a cobertura de indicadores aumentou de 25% para 75%. A Rodada 02 auditou 61.273 registros sem divergências reais na extensão auditada, mas a área territorial permaneceu ausente.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbf7f0"/>
+      <stop offset="1" stop-color="#f1e4d1"/>
+    </linearGradient>
+    <linearGradient id="footerBand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#062f5d"/>
+      <stop offset="1" stop-color="#0d4b88"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#062f5d" flood-opacity="0.10"/>
+    </filter>
+    <style>
+      .font { font-family: "DejaVu Sans", "Arial", sans-serif; }
+      .navy { fill: #082f5b; }
+      .muted { fill: #566574; }
+      .white { fill: #ffffff; }
+      .smallcaps { font-size: 20px; font-weight: 700; letter-spacing: 2px; }
+      .metric-label { font-size: 23px; fill: #566574; }
+      .metric-value { font-size: 28px; font-weight: 800; fill: #082f5b; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="1000" fill="url(#background)"/>
+  <path d="M0 913 C235 824 382 999 600 914 C805 835 939 1000 1165 906 C1356 826 1460 858 1600 798 L1600 1000 L0 1000 Z" fill="#d9c09b" opacity="0.18"/>
+  <g opacity="0.22" fill="#c89437">
+    <circle cx="1370" cy="86" r="4"/><circle cx="1390" cy="86" r="4"/><circle cx="1410" cy="86" r="4"/><circle cx="1430" cy="86" r="4"/>
+    <circle cx="1370" cy="106" r="4"/><circle cx="1390" cy="106" r="4"/><circle cx="1410" cy="106" r="4"/><circle cx="1430" cy="106" r="4"/>
+  </g>
+
+  <g class="font">
+    <text x="74" y="70" class="navy" font-size="27" font-weight="800">Israel The Sheep</text>
+    <text x="1526" y="70" class="navy" font-size="24" font-weight="700" text-anchor="end">Manus <tspan fill="#c89437">×</tspan> IBGE</text>
+
+    <text x="74" y="145" class="navy" font-size="58" font-weight="800">O que mudou entre as duas rodadas</text>
+    <text x="74" y="190" class="muted" font-size="27">O prompt melhorou. A cobertura também. Mas a entrega continuou incompleta.</text>
+
+    <!-- Rodada 01 -->
+    <rect x="70" y="235" width="700" height="500" rx="28" fill="#ffffff" filter="url(#shadow)"/>
+    <rect x="70" y="235" width="12" height="500" rx="6" fill="#b76545"/>
+    <text x="115" y="285" class="smallcaps" fill="#9b5238">RODADA 01</text>
+    <text x="115" y="370" class="navy" font-size="84" font-weight="800">57,13</text>
+    <text x="115" y="408" class="muted" font-size="22">pontuação da auditoria</text>
+
+    <rect x="430" y="275" width="285" height="116" rx="18" fill="#f6e9e3"/>
+    <text x="455" y="311" fill="#8d432e" font-size="18" font-weight="700" letter-spacing="1">CLASSIFICAÇÃO GLOBAL</text>
+    <text x="455" y="347" fill="#6f3426" font-size="24" font-weight="800">Insuficiente para</text>
+    <text x="455" y="378" fill="#6f3426" font-size="24" font-weight="800">uso analítico</text>
+
+    <line x1="115" y1="445" x2="715" y2="445" stroke="#dfd4c6" stroke-width="2"/>
+    <text x="115" y="492" class="metric-label">Cobertura de indicadores</text>
+    <text x="715" y="492" class="metric-value" text-anchor="end">25%</text>
+    <line x1="115" y1="515" x2="715" y2="515" stroke="#eee6dc" stroke-width="2"/>
+    <text x="115" y="562" class="metric-label">Cobertura funcional-temporal</text>
+    <text x="715" y="562" class="metric-value" text-anchor="end">31,25%</text>
+    <line x1="115" y1="585" x2="715" y2="585" stroke="#eee6dc" stroke-width="2"/>
+    <text x="115" y="632" class="metric-label">Duração</text>
+    <text x="715" y="632" class="metric-value" text-anchor="end">19 min</text>
+    <line x1="115" y1="655" x2="715" y2="655" stroke="#eee6dc" stroke-width="2"/>
+    <text x="115" y="702" class="metric-label">Créditos Manus</text>
+    <text x="715" y="702" class="metric-value" text-anchor="end">524</text>
+
+    <!-- Rodada 02 -->
+    <rect x="830" y="235" width="700" height="500" rx="28" fill="#ffffff" filter="url(#shadow)"/>
+    <rect x="830" y="235" width="12" height="500" rx="6" fill="#c89437"/>
+    <text x="875" y="285" class="smallcaps" fill="#9a6d19">RODADA 02</text>
+    <text x="875" y="370" class="navy" font-size="84" font-weight="800">86,38</text>
+    <text x="875" y="408" class="muted" font-size="22">pontuação da auditoria</text>
+
+    <rect x="1190" y="275" width="285" height="116" rx="18" fill="#edf3f8"/>
+    <text x="1215" y="311" fill="#315d84" font-size="18" font-weight="700" letter-spacing="1">CLASSIFICAÇÃO GLOBAL</text>
+    <text x="1215" y="347" class="navy" font-size="24" font-weight="800">Utilizável com</text>
+    <text x="1215" y="378" class="navy" font-size="24" font-weight="800">ressalvas</text>
+
+    <line x1="875" y1="445" x2="1475" y2="445" stroke="#dfd4c6" stroke-width="2"/>
+    <text x="875" y="492" class="metric-label">Cobertura de indicadores</text>
+    <text x="1475" y="492" class="metric-value" text-anchor="end">75%</text>
+    <line x1="875" y1="515" x2="1475" y2="515" stroke="#eee6dc" stroke-width="2"/>
+    <text x="875" y="562" class="metric-label">Cobertura funcional-temporal</text>
+    <text x="1475" y="562" class="metric-value" text-anchor="end">68,75%</text>
+    <line x1="875" y1="585" x2="1475" y2="585" stroke="#eee6dc" stroke-width="2"/>
+    <text x="875" y="632" class="metric-label">Duração</text>
+    <text x="1475" y="632" class="metric-value" text-anchor="end">10 min</text>
+    <line x1="875" y1="655" x2="1475" y2="655" stroke="#eee6dc" stroke-width="2"/>
+    <text x="875" y="702" class="metric-label">Créditos Manus</text>
+    <text x="1475" y="702" class="metric-value" text-anchor="end">380</text>
+
+    <!-- Faixa de síntese -->
+    <rect x="70" y="775" width="1460" height="165" rx="28" fill="url(#footerBand)"/>
+    <line x1="420" y1="815" x2="420" y2="900" stroke="#ffffff" stroke-opacity="0.22" stroke-width="2"/>
+    <line x1="1035" y1="815" x2="1035" y2="900" stroke="#ffffff" stroke-opacity="0.22" stroke-width="2"/>
+
+    <text x="115" y="824" fill="#e7c783" font-size="18" font-weight="700" letter-spacing="1.5">EVOLUÇÃO</text>
+    <text x="115" y="874" class="white" font-size="39" font-weight="800">+29,25 pontos</text>
+    <text x="115" y="908" fill="#d6e3ef" font-size="18">144 créditos e 9 min a menos</text>
+
+    <text x="465" y="824" fill="#e7c783" font-size="18" font-weight="700" letter-spacing="1.5">EXTENSÃO AUDITADA NA RODADA 02</text>
+    <text x="465" y="874" class="white" font-size="39" font-weight="800">61.273 registros</text>
+    <text x="465" y="908" fill="#d6e3ef" font-size="21">0 divergências reais nos valores existentes</text>
+
+    <text x="1080" y="824" fill="#e7c783" font-size="18" font-weight="700" letter-spacing="1.5">INCOMPLETUDE REMANESCENTE</text>
+    <text x="1080" y="866" class="white" font-size="29" font-weight="800">Área territorial</text>
+    <text x="1080" y="904" class="white" font-size="29" font-weight="800">permaneceu ausente</text>
+
+    <text x="800" y="978" class="navy" font-size="20" font-weight="700" text-anchor="middle">Melhoria substancial com incompletude remanescente</text>
+  </g>
+</svg>
