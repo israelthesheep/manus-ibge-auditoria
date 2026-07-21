@@ -14,10 +14,10 @@ Auditoria independente de duas entregas produzidas pela Manus para indicadores m
 Este trabalho integra diferentes plataformas públicas, cada uma com uma função específica no processo de publicação, documentação e análise dos dados.
 
 * **Dashboard no Tableau Public:** [Acessar visualização](https://public.tableau.com/views/Manus-AuditoriapblicadeIAv1_0/Capa?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-* **Dataset no Kaggle:** [Acessar conjunto de dados](https://www.kaggle.com/datasets/israelthesheep/brazil-diesel-distributor-shares-20182025/data)
-* **Notebook no Kaggle:** [Acessar análise reproduzível](https://www.kaggle.com/code/israelthesheep/brazilian-diesel-distributor-shares)
+* **Dataset no Kaggle:** [Acessar conjunto de dados](https://www.kaggle.com/datasets/israelthesheep/manus-ibge-auditoria-pblica-de-ia)
+* **Notebook no Kaggle:** [Acessar análise reproduzível](https://www.kaggle.com/code/israelthesheep/01-vis-o-geral-da-auditoria-manus-ibge)
 * **Repositório no GitHub:** [Acessar projeto](https://github.com/israelthesheep/manus-ibge-auditoria)
-* **Artigo no Medium:** [Acessar artigo](https://github.com/israelthesheep/app_anp_anuario_pipeline)
+* **Artigo no Medium:** [Acessar artigo](https://medium.com/@igor.vasconcellos/dado-correto-n%C3%A3o-basta-uma-auditoria-p%C3%BAblica-de-uma-ia-agente-com-dados-do-ibge-49501fc4aeed)
 
 ## Resultado principal
 
